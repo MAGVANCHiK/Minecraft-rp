@@ -1,0 +1,71 @@
+Minecraft 1.18 biome data
+This file was generated using the TellMe mod 
+https://www.curseforge.com/minecraft/mc-mods/tellme
+
++--------------------------------------------------+
+| ID | Registry name | Temp. | RainType | Downfall |
++--------------------------------------------------+
+| 0 | minecraft:the_void |  0.50 | - | 0.50 |
+| 1 | minecraft:plains |  0.80 | rain | 0.40 |
+| 2 | minecraft:sunflower_plains |  0.80 | rain | 0.40 |
+| 3 | minecraft:snowy_plains |  0.00 | snow | 0.50 |
+| 4 | minecraft:ice_spikes |  0.00 | snow | 0.50 |
+| 5 | minecraft:desert |  2.00 | - | 0.00 |
+| 6 | minecraft:swamp |  0.80 | rain | 0.90 |
+| 7 | minecraft:forest |  0.70 | rain | 0.80 |
+| 8 | minecraft:flower_forest |  0.70 | rain | 0.80 |
+| 9 | minecraft:birch_forest |  0.60 | rain | 0.60 |
+| 10 | minecraft:dark_forest |  0.70 | rain | 0.80 |
+| 11 | minecraft:old_growth_birch_forest |  0.60 | rain | 0.60 |
+| 12 | minecraft:old_growth_pine_taiga |  0.30 | rain | 0.80 |
+| 13 | minecraft:old_growth_spruce_taiga |  0.25 | rain | 0.80 |
+| 14 | minecraft:taiga |  0.25 | rain | 0.80 |
+| 15 | minecraft:snowy_taiga | -0.50 | snow | 0.40 |
+| 16 | minecraft:savanna |  2.00 | - | 0.00 |
+| 17 | minecraft:savanna_plateau |  2.00 | - | 0.00 |
+| 18 | minecraft:windswept_hills |  0.20 | rain | 0.30 |
+| 19 | minecraft:windswept_gravelly_hills |  0.20 | rain | 0.30 |
+| 20 | minecraft:windswept_forest |  0.20 | rain | 0.30 |
+| 21 | minecraft:windswept_savanna |  2.00 | - | 0.00 |
+| 22 | minecraft:jungle |  0.95 | rain | 0.90 |
+| 23 | minecraft:sparse_jungle |  0.95 | rain | 0.80 |
+| 24 | minecraft:bamboo_jungle |  0.95 | rain | 0.90 |
+| 25 | minecraft:badlands |  2.00 | - | 0.00 |
+| 26 | minecraft:eroded_badlands |  2.00 | - | 0.00 |
+| 27 | minecraft:wooded_badlands |  2.00 | - | 0.00 |
+| 28 | minecraft:meadow |  0.50 | rain | 0.80 |
+| 29 | minecraft:grove | -0.20 | snow | 0.80 |
+| 30 | minecraft:snowy_slopes | -0.30 | snow | 0.90 |
+| 31 | minecraft:frozen_peaks | -0.70 | snow | 0.90 |
+| 32 | minecraft:jagged_peaks | -0.70 | snow | 0.90 |
+| 33 | minecraft:stony_peaks |  1.00 | rain | 0.30 |
+| 34 | minecraft:river |  0.50 | rain | 0.50 |
+| 35 | minecraft:frozen_river |  0.00 | snow | 0.50 |
+| 36 | minecraft:beach |  0.80 | rain | 0.40 |
+| 37 | minecraft:snowy_beach |  0.05 | snow | 0.30 |
+| 38 | minecraft:stony_shore |  0.20 | rain | 0.30 |
+| 39 | minecraft:warm_ocean |  0.50 | rain | 0.50 |
+| 40 | minecraft:lukewarm_ocean |  0.50 | rain | 0.50 |
+| 41 | minecraft:deep_lukewarm_ocean |  0.50 | rain | 0.50 |
+| 42 | minecraft:ocean |  0.50 | rain | 0.50 |
+| 43 | minecraft:deep_ocean |  0.50 | rain | 0.50 |
+| 44 | minecraft:cold_ocean |  0.50 | rain | 0.50 |
+| 45 | minecraft:deep_cold_ocean |  0.50 | rain | 0.50 |
+| 46 | minecraft:frozen_ocean |  0.00 | snow | 0.50 |
+| 47 | minecraft:deep_frozen_ocean |  0.50 | rain | 0.50 |
+| 48 | minecraft:mushroom_fields |  0.90 | rain | 1.00 |
+| 49 | minecraft:dripstone_caves |  0.80 | rain | 0.40 |
+| 50 | minecraft:lush_caves |  0.50 | rain | 0.50 |
+| 51 | minecraft:nether_wastes |  2.00 | - | 0.00 |
+| 52 | minecraft:warped_forest |  2.00 | - | 0.00 |
+| 53 | minecraft:crimson_forest |  2.00 | - | 0.00 |
+| 54 | minecraft:soul_sand_valley |  2.00 | - | 0.00 |
+| 55 | minecraft:basalt_deltas |  2.00 | - | 0.00 |
+| 56 | minecraft:the_end |  0.50 | - | 0.50 |
+| 57 | minecraft:end_highlands |  0.50 | - | 0.50 |
+| 58 | minecraft:end_midlands |  0.50 | - | 0.50 |
+| 59 | minecraft:small_end_islands |  0.50 | - | 0.50 |
+| 60 | minecraft:end_barrens |  0.50 | - | 0.50 |
++--------------------------------------------------+
+| ID | Registry name | Temp. | RainType | Downfall |
++--------------------------------------------------+
